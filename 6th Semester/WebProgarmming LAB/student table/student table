@@ -1,0 +1,1 @@
+CREATE TABLE `dblogin`.`student` ( `reg_no` INT NOT NULL AUTO_INCREMENT , `name` VARCHAR(30) NOT NULL , `mark` FLOAT NOT NULL , `grade` VARCHAR(3) NOT NULL , PRIMARY KEY (`reg_no`)) ;

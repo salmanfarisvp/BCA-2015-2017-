@@ -1,0 +1,1 @@
+CREATE TABLE `dblogin`.`product` ( `itemcode` INT NOT NULL AUTO_INCREMENT , `itemname` VARCHAR(30) NOT NULL , `unitprice` FLOAT NOT NULL , PRIMARY KEY (`itemcode`)) ;
